@@ -7,11 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I am Hayden Hart, and I am a student at Weber State University .  I am going for my bachelors in Computer Science.  I work part time at Associated Foods and I think that is pretty cool. Heres a neet table.
+description: I am Hayden Hart, and I am a student at Weber State University .  I am going for my bachelors in Computer Science.  I work part time at Associated Foods and I think that is pretty cool. Heres a neet table.cool numbers-|cool games|cool people
+ -------------|------------|-------------|
+ 12           |God of War  | Ghandi      |
+ 78           |Call of Duty| Keanu Reeves|
+ 101          |4 Square    | My dad      |
 
-cool numbers-|cool games|cool people
--------------|------------|-------------|
-12           |God of War  | Ghandi      |
-78           |Call of Duty| Keanu Reeves|
-101          |4 Square    | My dad      |
 ---
