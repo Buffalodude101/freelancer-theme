@@ -8,4 +8,4 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: I am Hayden Hart, and I am a student at Weber State University .  I am going for my bachelors in Computer Science.  I work part time at Associated Foods and I think that is pretty cool.  This is project 6 and it is pretty mofoin cool.  Like have you seen the new God of War, is looks pretty darn cool.  Like it will break all the barriers of storytelling.
-my life be like ooooooo haaaaa ooooooo hhahaha
+description2: my life be like ooooooo haaaaa ooooooo hhahaha
