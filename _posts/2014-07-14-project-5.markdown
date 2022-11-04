@@ -7,4 +7,4 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I am Hayden Hart, and I am a student at Weber State University .  I am going for my bachelors in Computer Science.  I work part time at Associated Foods and I think that is pretty cool. Heres a neet table. this is project 5
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
